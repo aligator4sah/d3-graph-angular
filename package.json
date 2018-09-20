@@ -23,6 +23,7 @@
     "@angular/router": "^6.1.0",
     "core-js": "^2.5.4",
     "d3": "^5.7.0",
+    "d3-shape": "^1.2.2",
     "font-awesome": "^4.7.0",
     "ionicons-npm": "^2.0.1",
     "ng-lightning": "^2.0.1",
